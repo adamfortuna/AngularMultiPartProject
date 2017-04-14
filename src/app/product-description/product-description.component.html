@@ -1,8 +1,8 @@
     <div class="col-md-4">
-      <img src="https://images-na.ssl-images-amazon.com/images/I/51qGtLfXhNL._SS500.jpg" alt="product image" />
+      <img src="{{albumInfo?.album.coverImage}}" alt="product image" />
     </div>
     <div class="col-md-4">
-      <p class="album-name">Eyes Alive</p>
-      <p class="band-name">Turbid North</p>
-      <p class="album-release-date">November 20, 2015</p>
+      <p class="album-name">{{albumInfo?.album.name}}</p>
+      <p class="band-name">{{albumInfo?.artist}}</p>
+      <p class="album-release-date">{{albumInfo?.album.releaseDate}}</p>
     </div>
