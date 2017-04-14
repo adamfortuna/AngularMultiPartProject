@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "artist": "Turbid North",
+  "album": {
+    "name": "Eyes Alive",
+    "releaseDate": "November 20, 2015",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51qGtLfXhNL._SS500.jpg",
+    "tracks": [
+      {"trackNumber": 1, "trackName": "Eyes Alive", "trackLength": "4:48", "trackPrice": 0.99 },
+      {"trackNumber": 2, "trackName": "The Pyramid Drones", "trackLength": "3:13", "trackPrice": 0.99 },
+      {"trackNumber": 3, "trackName": "Destroyer Of Worlds", "trackLength": "3:42", "trackPrice": 0.99 },
+      {"trackNumber": 4, "trackName": "Red Giant", "trackLength": "4:31", "trackPrice": 0.99 },
+      {"trackNumber": 5, "trackName": "The Burning Sky", "trackLength": "2:53", "trackPrice": 0.99 },
+      {"trackNumber": 6, "trackName": "Black Sun Rising", "trackLength": "5:12", "trackPrice": 0.99 },
+      {"trackNumber": 7, "trackName": "Bring Home the Motherlode", "trackLength": "9:07", "trackPrice": 0.99 },
+      {"trackNumber": 8, "trackName": "The Great Dying", "trackLength": "3:59", "trackPrice": 0.99 },
+      {"trackNumber": 9, "trackName": "Eternal Sleep", "trackLength": "7:43", "trackPrice": 0.99 }
+    ]
+  }
+}
